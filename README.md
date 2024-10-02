@@ -22,7 +22,7 @@ I am passionate about designing robust data infrastructure and automating comple
 #### **Twitter Follower Triangle - MapReduce Project**
 Analyzed a social amplifier triangle on Twitter, counting distinct triangles (X, Y, Z) where X follows Y, Y follows Z, and Z follows X. Implemented in Hadoop MapReduce, the project handled real-world Big Data challenges to ensure an exact triangle count.
 
-#### **NLP-Powered Story Generator**
+#### **[NLP-Powered Story Generator](https://github.com/pritisharora55/NLP-Powered-Story-Generator)**
 Explored the potential of NLP to generate original short stories. Using advanced techniques, the model predicts the next word in a sentence to generate engaging narratives. This project demonstrates how technology and creativity can intersect, assisting writers with overcoming writer's block or inspiring new ideas.
 
 #### **[Forex Data Pipeline](https://github.com/pritisharora55/Forex-Data-Pipeline)**
