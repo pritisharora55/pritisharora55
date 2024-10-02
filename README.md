@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pritisharora55)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pritisharora55.pritisharora55)
 
 ## Hi there, I'm Pritish Arora 👋
 
