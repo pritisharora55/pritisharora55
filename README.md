@@ -19,7 +19,7 @@ I am passionate about designing robust data infrastructure and automating comple
 
 ### Key Projects
 
-#### **Twitter Follower Triangle - MapReduce Project**
+#### **[Twitter Follower Triangle - MapReduce on AWS EMR](https://github.com/pritisharora55/Twitter-Follower-Triangle)**
 Analyzed a social amplifier triangle on Twitter, counting distinct triangles (X, Y, Z) where X follows Y, Y follows Z, and Z follows X. Implemented in Hadoop MapReduce, the project handled real-world Big Data challenges to ensure an exact triangle count.
 
 #### **[NLP-Powered Story Generator](https://github.com/pritisharora55/NLP-Powered-Story-Generator)**
