@@ -11,7 +11,7 @@ I am a Data Engineer with hands-on experience in building scalable ETL pipelines
 
 I am passionate about designing robust data infrastructure and automating complex data workflows. Open to opportunities that allow me to leverage my skills in data engineering to solve challenging problems.
 
-- **[Resume](https://github.com/pritisharora55/resume)**  
+- **[Resume](https://github.com/pritisharora55/Resume/blob/main/README.md)**  
 - **[LinkedIn](https://www.linkedin.com/in/pritish-arora-2b7594192/)**  
 - **[Portfolio](https://pritisharora55.github.io/)**
 
