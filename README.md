@@ -67,5 +67,5 @@ Developed a full-fledged movie reservation system with features for both admins 
 
 Feel free to explore my repositories and reach out if you’re interested in collaborating on data engineering projects or have opportunities to discuss!
 
-- **Email**: pritisharora55@gmmail.com  
+- **Email**: pritisharora55@gmail.com  
 - **GitHub**: [github.com/pritisharora55](https://github.com/pritisharora55)
