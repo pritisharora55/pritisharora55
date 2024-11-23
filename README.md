@@ -26,7 +26,10 @@ Analyzed a social amplifier triangle on Twitter, counting distinct triangles (X,
 Explored the potential of NLP to generate original short stories. Using advanced techniques, the model predicts the next word in a sentence to generate engaging narratives. This project demonstrates how technology and creativity can intersect, assisting writers with overcoming writer's block or inspiring new ideas.
 
 #### **[Forex Data Pipeline](https://github.com/pritisharora55/Forex-Data-Pipeline)**
-A fully functional data pipeline orchestrated using Airflow to fetch forex data from an HTTP API and store it in Hive tables. Integrated logging and monitoring with Slack and email notifications. Used Spark for distributed processing and HDFS for storage.
+This repository contains an efficient implementation of the PageRank algorithm using Apache Spark. PageRank is a fundamental algorithm in web analytics and graph theory, originally developed by Google's co-founders Larry Page and Sergey Brin to rank web pages in their search engine results.
+
+#### **[Page Rank -Spark](https://github.com/pritisharora55/PageRank-Spark)**
+Developed a full-fledged movie reservation system with features for both admins and customers. The system covers data collection, SQL querying, and analytics reports to display theatre statistics, with an interactive interface built using Python.
 
 #### **[Movie Reservation System](https://github.com/pritisharora55/Movie_reservation_system)**
 Developed a full-fledged movie reservation system with features for both admins and customers. The system covers data collection, SQL querying, and analytics reports to display theatre statistics, with an interactive interface built using Python.
@@ -50,7 +53,7 @@ Developed a full-fledged movie reservation system with features for both admins 
 ### Skills
 
 - **Programming Languages**: Python, Java, Scala, SQL  
-- **Big Data Technologies**: Hadoop, Spark, Kafka, Hive, Airflow, MongoDB, Vertica  
+- **Big Data Technologies**: Hadoop, Spark, Kafka, Hive, Airflow, MongoDB, Vertica, Cassandra  
 - **Cloud Platforms**: AWS (EMR, S3, Redshift), Azure (Databricks, Logic Apps)  
 - **DevOps Tools**: Jenkins, Rundeck, CI/CD, Docker  
 - **Visualization Tools**: Tableau, PowerBI
