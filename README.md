@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a Data Engineer with hands-on experience in building scalable ETL pipelines, data marts, and frameworks for real-time/batch streaming. With expertise in cloud platforms like AWS and Azure (Databricks), I focus on architecting data solutions that drive business growth and operational efficiency. Currently pursuing my master's in Data Science, I have worked on impactful projects at Tesla and Persistent Systems.
+I am a Data Engineer with 3+ years of hands-on experience in building scalable ETL pipelines, data marts, and frameworks for real-time/batch streaming. With expertise in cloud platforms like AWS and Azure (Databricks), I focus on architecting data solutions that drive business growth and operational efficiency. Currently pursuing my master's in Data Science, I have worked on impactful projects at Tesla and Persistent Systems.
 
 
 
