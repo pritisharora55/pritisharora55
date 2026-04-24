@@ -38,13 +38,13 @@ Developed a full-fledged movie reservation system with features for both admins 
 
 ### Professional Experience
 #### **KAGR, LLC. | Data Engineer 2 (May 2025 - Present)**
--Built and optimized production-grade data pipelines using Prefect, dbt and Python to ingest, transform, and validate high-
+- Built and optimized production-grade data pipelines using Prefect, dbt and Python to ingest, transform, and validate high-
 volume ticketing and fan engagement data, processing 1M+ records daily, reducing pipeline latency by 35%, and enabling near
 real-time analytics for business stakeholders
--Designed and automated Snowflake-backed analytical models and Tableau dashboards for customer segmentation and ticketing
+- Designed and automated Snowflake-backed analytical models and Tableau dashboards for customer segmentation and ticketing
 insights, empowering revenue and operations teams to identify high-value fan cohorts, contributing to a 15% lift in upsell
 opportunities and 20% faster issue investigation
--Operationalized data workflows and analytics use cases by improving SQL performance, data modeling, and orchestration
+- Operationalized data workflows and analytics use cases by improving SQL performance, data modeling, and orchestration
 reliability, cutting manual reporting effort by 30%, improving data freshness, and supporting scalable delivery of multiple
 stakeholder-facing data products
 
